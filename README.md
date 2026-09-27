@@ -229,6 +229,8 @@ I'm continuously developing my capabilities across:
 ### Email
 📧 **np216283@gmail.com**
 
+### Portfolio
+🔗 (https://nirajp19.github.io/)
 ---
 
 ### *Turning business data and research into structured intelligence and actionable insights.*
